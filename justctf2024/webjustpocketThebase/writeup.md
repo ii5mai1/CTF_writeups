@@ -51,7 +51,7 @@ If we bypass it, We have another obstacle, which is the length. Since it's a sto
 
 ![length](assets/titlelength.png)
 
-![gif](assets/gif.mp4)
+![gif](assets/cat.gif)
 *Filters*
 
 First our input is given to DOMPurify, it will sanitize it from any JS execution, for example it will remove dangerous tags and attributes like script, onerror, onmouseover ...
